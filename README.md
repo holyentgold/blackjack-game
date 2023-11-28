@@ -1,9 +1,10 @@
 # simple-blackjack-game-demo
 ## Usage
 Blackjack, also known as 21, is a popular card game played in casinos worldwide. The game's objective is to beat the dealer by having a hand value closer to 21 without exceeding it. Players are dealt two cards initially and can choose to "hit" (draw more cards) or "stand" (keep their current hand). Face cards have a value of 10, and Aces can be counted as 1 or 11. Achieving a hand value of 21 with the first two cards is called a "blackjack" and is the highest-winning hand. The game combines strategy, skill, and luck, making it a thrilling and widely enjoyed casino experience.
-## Link to the website
+## Screenshot
+![Blackjack](https://github.com/holyentgold/blackjack-game/blob/main/Screenshot_20231128-030506.png)
 
-[Link to Website](https://quotes-riddles-jokes.vercel.app/)
+[Link to Website](https://simple-blackjack-game-omega.vercel.app/)
 
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:holyentgoldconcept@gmail.com)
